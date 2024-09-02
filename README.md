@@ -4,14 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile App Developer
 --------------------
 
-I will receive my bachelors in computer science with a minor in mathematics from the University of Montana in spring of 2024.
+I am a University of Montana graduate in computer science with a minor in mathematics and currently a software development engineer at onX maps focusing on Android development.
 
 * 🌍  I'm based in Missoula, Montana
 * 🖥️  See my portfolio at [E-Portfolio.](http://michaelniekamp.github.io/michaelniekampdev/#page-top)
 * ✉️  You can contact me at [mdniekamp@gmail.com.](mailto:mdniekamp@gmail.com.)
-* 🚀  I'm currently working on [Noti, a notification app for Android.](http://github.com/MichaelNiekamp/Noti)
-* 🧠  I'm learning Design patterns in Kotlin.
-* 🤝  I'm open to collaborating on Kotlin based mobile applications.
 
 ### Skills
 
